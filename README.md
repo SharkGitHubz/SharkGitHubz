@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 How are you!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning: Python<br>🎯 Goals: Learn at least 2 programming languages<br>🎲 Fun fact: I do not know programming well (not yet at least)</p>
+<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning: Nothing, just checking things out<br>🎯 Goals: Learn at least 2 programming languages<br>🎲 Fun fact: I do not know programming well (not yet at least)</p>
 
 ###
 
