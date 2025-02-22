@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋 How are you!</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=1000&center=true&width=435&lines=touch+grass)](https://git.io/typing-svg)
+
 ###
 
 <p align="center">My name is SDS or SharkGitHubz and I'm an "okay" developer</p> 
